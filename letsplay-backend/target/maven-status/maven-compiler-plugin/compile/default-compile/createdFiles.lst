@@ -1,0 +1,5 @@
+com/gvg/backend/internal/web/WebConstants.class
+com/gvg/backend/external/service/BggServiceImpl.class
+com/gvg/backend/external/domain/Collection.class
+com/gvg/backend/internal/controller/CollectionController.class
+com/gvg/backend/external/service/BggService.class
