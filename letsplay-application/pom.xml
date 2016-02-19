@@ -21,6 +21,10 @@
             <groupId>com.gvg</groupId>
             <artifactId>letsplay-backend</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.gvg</groupId>
+            <artifactId>letsplay-frontend</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
